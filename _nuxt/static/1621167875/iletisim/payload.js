@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/iletisim", {data:[{}],fetch:{},mutations:void 0});

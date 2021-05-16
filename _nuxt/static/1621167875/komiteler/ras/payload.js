@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/komiteler/ras", {data:[{}],fetch:{},mutations:void 0});

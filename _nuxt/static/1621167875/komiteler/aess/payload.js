@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/komiteler/aess", {data:[{}],fetch:{},mutations:void 0});

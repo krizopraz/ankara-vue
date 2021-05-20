@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="card"></div>
-    <div class="card"></div>
-    <div class="card"></div>
+    <div class="card" />
+    <div class="card" />
+    <div class="card" />
   </div>
 </template>
 

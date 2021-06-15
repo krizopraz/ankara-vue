@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <NuxtLink to="/">
-        <img :src="require('~/static/logo.png')" alt="IEEE ANKARA UNIVERSITY" srcset="">
+        <img src="/logo.png" alt="IEEE ANKARA UNIVERSITY" srcset="">
       </NuxtLink>
     </div>
     <div class="duyuru">

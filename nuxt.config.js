@@ -47,7 +47,4 @@ export default {
   loading: true,
 
   // Router
-  router: {
-    base: '/ankara-vue/'
-  }
 }

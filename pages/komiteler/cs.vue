@@ -2,7 +2,7 @@
   <main>
     <section class="brand">
       <div>
-        <img :src="require('~/static/cs.png')" alt="IEEE Ankara Computer Society">
+        <img src="/cs.png" alt="IEEE Ankara Computer Society">
         <span class="bubble">Komitemize Hoş Geldiniz !</span>
         <NuxtLink class="forward" to="/iletisim">
           <svg
